@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emil
+- 👋 Hi, I’m Roshan Alex
 - 👀 I’m interested in game development using unity 
 - 🌱 I’m currently learning unity
 - 💞️ I’m looking to collaborate on unity projects
