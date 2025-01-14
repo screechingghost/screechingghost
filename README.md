@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roshan Alex
-- 👀 I’m interested in Cyber Security 
-- 🌱 I’m currently learning Pentesting
+- 👀 I’m interested in Red Team
+- 🌱 I’m currently Cybersecurity Intern
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ra.roshanalex@gmail.com
 - 💻 Programing languages- python,c
